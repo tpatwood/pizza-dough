@@ -1,5 +1,7 @@
 # Pizza Dough
 
+adding some changes 
+
 This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. My personal motivation has always been to recreate one of my childhood memories - a pizza in a small restaurant named `Panorama` in the Italian city of `Olang`(`Valdaora`<sup>1</sup>). For years I have been obsessed with tasting different pizzas, observing how the *pizzaioli* make the dough. I have tried endless times, discussed with people from all over the world. This repo is dedicated to sharing my quest of figuring out the best possible pizza dough. Please note - this guide is scoped to the dough only, not the actual baking/topping of the pizza.
 
 ![Me making a nice pizza](https://i.imgur.com/x2jxzde.jpg)
